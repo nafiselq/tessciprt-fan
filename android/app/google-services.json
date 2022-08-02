@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76513666609",
+    "project_id": "tesscript-fan",
+    "storage_bucket": "tesscript-fan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76513666609:android:8bb3c2eedc765e314c9710",
+        "android_client_info": {
+          "package_name": "com.example.tescsiprt_fan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76513666609-vanoemhvgatatdvcu5hg1csaturulumm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA__3MW6PvVGsbIkm4hLRPXdeLo085-2Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76513666609-vanoemhvgatatdvcu5hg1csaturulumm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
